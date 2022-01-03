@@ -9,3 +9,6 @@ datset/
 
 # ignore all files in any directory named .idea
 .idea/
+
+# ignore all files in any directory named catboost
+*catboost*/
