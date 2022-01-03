@@ -1,0 +1,11 @@
+# ignore all files in any directory named venv
+venv/
+
+# ignore all files in any directory named dataset
+datset/
+
+# ignore .DS_Store
+.DS_Store
+
+# ignore all files in any directory named .idea
+.idea/
